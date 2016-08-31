@@ -1,1 +1,2 @@
-这是第一行代码
+Git is a version control system.
+Git is free software.
